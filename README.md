@@ -112,15 +112,11 @@ Visit `http://localhost:8501` in your browser.
 Contributions are welcome!
 Feel free to open issues or submit pull requests.
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranavkadam-)
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/suryawanshi-yash)
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-```
 
 ---
 ````
